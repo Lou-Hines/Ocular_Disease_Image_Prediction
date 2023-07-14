@@ -1,4 +1,4 @@
-# Ocular_Disease_Image_Prediction
+
 # Ocular Disease Prediction with CNNs
 By Lou Hines
 July 14, 2023
