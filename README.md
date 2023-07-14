@@ -41,5 +41,5 @@ For any questions or further discussion, feel free to reach out:
 
 ## Repository Navigation
 - [Data Source](https://www.cell.com/)
-- [Final notebook](https://github.com/Lou-Hines/Ocular_Disease_Prediction.ipynb)
-- [Presentation](https://github.com/Lou-Hines/Ocular_Disease_Prediction/presentation.pdf)
+- [Final notebook](https://github.com/Lou-Hines/Ocular_Disease_Image_Prediction/blob/main/Ocular_Disease_Prediction_Notebook.ipynb)
+- [Presentation](https://github.com/Lou-Hines/Ocular_Disease_Image_Prediction/blob/main/presentation.pdf)
