@@ -1,7 +1,6 @@
 
 # Ocular Disease Prediction with CNNs
 By Lou Hines
-July 14, 2023
 
 ## Optimizing Models to Predict Ocular Disease
 Artificial Intelligence shines brightly in the medical profession, with recent technologies creating advanced mRNA vaccines, predicting diabetes well ahead of traditional techniques, and catching missed heart attack diagnoses. In this spirit, we optimized models using OCT retinal scans to detect CNV (Inflammatory Choroidal Neovascularization), a degenerative ocular disorder commonly resulting in blindness, using a subset of data from Cell. Especially given SARS-CoV-2, early and quick detection of virally-induced disorders is vital for effective treatment.
@@ -29,6 +28,9 @@ Other models tried included:
 - CNN without downsampling or striding (1 Epoch): Achieved strong results (average test accuracy of 98.5% over 100 evaluations) but was too time-consuming and we needed more epochs to feel confident in our outcome.
 
 ## Results & Recommendations
+
+We achieved perfect scores on training and validation data, and a 98.6% score with test data. Loss scores were miniscule.
+
 Our models performed well on the task, and we believe that the use of such models can save time and resources in the medical field. Accurate diagnoses can be made quickly, allowing medical professionals to see more patients and begin treatment faster. 
 
 For future work, we plan to further experiment with VGG16, visualize activation layers for better model understanding, optimize for image noise, and run more epochs to improve false negatives.
@@ -42,4 +44,4 @@ For any questions or further discussion, feel free to reach out:
 ## Repository Navigation
 - [Data Source](https://www.cell.com/)
 - [Final notebook](https://github.com/Lou-Hines/Ocular_Disease_Image_Prediction/blob/main/Ocular_Disease_Prediction_Notebook.ipynb)
-- [Presentation](https://github.com/Lou-Hines/Ocular_Disease_Image_Prediction/blob/main/presentation.pdf)
+- [Presentation](https://github.com/Lou-Hines/Ocular_Disease_Image_Prediction/blob/main/Ocular_Disease_Prediction_Presentation.pdf)
